@@ -16,6 +16,6 @@ contract Faucet {
     }
 
   // Accept any incoming amount
-  function () external public payable {}
+  function () public payable {}
 
 }
